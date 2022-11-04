@@ -11,4 +11,4 @@ zip -r ../build/api-server.zip src
 cd ..
 
 echo  "upload to s3"
-aws s3 cp build/api-server.zip s3://job-notifier-src-bucket-2134/
+aws s3 cp build/api-server.zip s3://job-notifier-src-bucket-834jisur089348ioo8/
