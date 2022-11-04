@@ -1,3 +1,4 @@
+#!/bin/bash
 # without sandbox please move creation of the bucket to terraform
 sh setup_src_bucket.sh
 
